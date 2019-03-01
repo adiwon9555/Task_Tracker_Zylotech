@@ -1,0 +1,21 @@
+.timestamp{
+    color: #808080;
+    font-style: italic;
+    float: right;
+    font-size: 13px;
+  }
+
+  .tName{
+    font-size: 15px;
+    flex-basis: 100%;
+  }
+  .des{
+    flex-basis: 100%;
+  }
+  .list-group{
+    max-height: 80vh;
+    margin-bottom: 2vh;
+    overflow:scroll;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+}
